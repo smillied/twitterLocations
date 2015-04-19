@@ -1,0 +1,10 @@
+{
+  "name" : "twitter-locations",
+  "version" : "1.0.0",
+  "description" : "Show tweets by location",
+  "main" : "server.js",
+  "author" : "smillied",
+  "dependencies" : {
+    "twitter" : "latest"
+  }
+}
